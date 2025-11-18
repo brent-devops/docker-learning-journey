@@ -17,7 +17,7 @@ My hands-on learning path from Windows System Administrator to DevOps Engineer.
 ## Learning Timeline
 
 ### Week 1: Docker Fundamentals (Nov 16-22, 2025)
-**Started:** November 16, 2025
+**Started:** November 17, 2025
 
 **Day 1 Achievements:**
 - ✅ Set up Ubuntu VM on Proxmox home lab
