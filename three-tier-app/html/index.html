@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Three-Tier App</title>
+    <style>
+        body { font-family: Arial; max-width: 800px; margin: 50px auto; padding: 20px; }
+        .tier { background: #f0f0f0; padding: 20px; margin: 10px 0; border-left: 5px solid #3498db; }
+        h1 { color: #2c3e50; }
+    </style>
+</head>
+<body>
+    <h1> Three-Tier Application</h1>
+
+    <div class="tier">
+        <h3>Tier 1: Web (Nginx)</h3>
+        <p> Serving this page on port 8080</p>
+    </div>
+
+    <div class="tier">
+        <h3>Tier 2: API (Python)</h3>
+ <p>Running on port 8000</p>
+    </div>
+    
+    <div class="tier">
+        <h3>Tier 3: Database (PostgreSQL)</h3>
+        <p>Persistent storage with Docker volumes</p>
+    </div>
+    
+    <hr>
+    <p><strong>What this demonstrates:</strong></p>
+    <ul>
+        <li>Multi-container orchestration</li>
+        <li>Network isolation (frontend/backend)</li>
+        <li>Data persistence</li>
+        <li>Service dependencies</li>
+    </ul>
+    
+    <p><em>Built by Brent - Day 1 of DevOps journey</em></p>
+</body>
+</html>
