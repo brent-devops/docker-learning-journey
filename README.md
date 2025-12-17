@@ -1,5 +1,57 @@
 # Docker Learning Journey
 
+Transitioning from Windows System Administrator to DevOps Engineer.
+
+## What I've Built
+
+### ✅ Production Monitoring Stack
+Complete observability platform with Prometheus, Grafana, Node Exporter, and cAdvisor.
+- Real-time CPU, memory, network, disk metrics
+- Docker container monitoring
+- 2+ weeks continuous operation
+- [View Project](./monitoring-stack/)
+
+### ✅ Three-Tier Application
+Multi-container web application with Docker Compose.
+- Nginx web server
+- Python API
+- PostgreSQL database with persistent storage
+- [View Project](./three-tier-app/)
+
+### ✅ Custom Docker Images
+Built from scratch using Dockerfiles.
+- [View Project](./custom-web-app/)
+
+### ✅ Docker Networking Lab
+Demonstrations of network isolation and security.
+- [View Project](./docker-networking-lab/)
+
+## Progress
+
+**Started:** November 16, 2025  
+**Status:** Active  
+**Time Invested:** ~25 hours  
+**Commits:** 10+  
+
+**Next:** Kubernetes fundamentals
+
+## Skills Acquired
+
+- Docker containerization and orchestration
+- Docker Compose multi-container applications
+- Prometheus metrics collection and querying
+- Grafana dashboard creation and visualization
+- Infrastructure as Code principles
+- Production monitoring patterns
+- Network isolation for security
+- Data persistence with volumes
+
+Building in public. Every commit documented.
+
+
+
+# Docker Learning Journey
+
 My hands-on learning path from Windows System Administrator to DevOps Engineer.
 
 ## Background
