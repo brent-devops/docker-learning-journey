@@ -10,6 +10,20 @@ Complete observability platform with Prometheus, Grafana, Node Exporter, and cAd
 - Docker container monitoring
 - 2+ weeks continuous operation
 - [View Project](./monitoring-stack/)
+### ✅ Production Monitoring Stack (COMPLETE)
+Complete observability platform with Prometheus, Grafana, Node Exporter, and cAdvisor.
+
+**Features:**
+- Real-time host metrics (CPU, memory, disk, network)
+- Per-container resource tracking (7 containers)
+- 2+ weeks continuous operation
+- 10+ million data points collected
+- Custom dashboards + pre-built imports
+
+**Dashboards:**
+- Node Exporter Full (system monitoring)
+- Docker Container Monitoring (custom-built)
+
 
 ### ✅ Three-Tier Application
 Multi-container web application with Docker Compose.
